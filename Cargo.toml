@@ -1,5 +1,5 @@
 [package]
-name = "ta-common-rs"
+name = "ta_common_rs"
 version = "0.1.5"
 authors = ["immortal infidel <immortal.infidel@gmail.com>"]
 edition = "2021"
